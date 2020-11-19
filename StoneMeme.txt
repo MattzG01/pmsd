@@ -1,9 +1,9 @@
-=== [gen8dlc1doublesou] StoneMeme ===
+=== [gen8doublesou] Stone Meme ===
 
-Dracovish @ Choice Scarf  
+Dracovish @ Choice Band  
 Ability: Strong Jaw  
 EVs: 4 HP / 252 Atk / 252 Spe  
-Jolly Nature  
+Adamant Nature  
 - Fishious Rend  
 - Protect  
 
@@ -33,5 +33,15 @@ IVs: 0 Atk
 - Draco Meteor  
 - Flamethrower  
 - Shadow Ball  
+
+Whimsicott @ Focus Sash  
+Ability: Prankster  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Tailwind  
+- Endeavor  
+- Toxic  
+- Stun Spore  
 
 
